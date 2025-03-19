@@ -1,4 +1,5 @@
 package org.example.calorietracker.controller;
+
 import jakarta.validation.Valid;
 import org.example.calorietracker.model.Food;
 import org.example.calorietracker.service.FoodService;
