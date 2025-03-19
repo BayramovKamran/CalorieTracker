@@ -1,6 +1,5 @@
 package org.example.calorietracker.service;
 
-
 import org.example.calorietracker.exception.ResourceNotFoundException;
 import org.example.calorietracker.model.Food;
 import org.example.calorietracker.repository.FoodRepository;
